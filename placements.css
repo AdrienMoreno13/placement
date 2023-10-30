@@ -1,0 +1,29 @@
+p {
+  background-color: rgb(206, 199, 199);
+  border: 1px solid green;
+}
+
+p:first-child {
+  height: 100px;
+  padding: 20px;
+  margin: 0px;
+}
+
+p:nth-child(2) {
+  width: 50%;
+  padding: 1.2em;
+  margin: 20px 5px 20px 5px;
+}
+
+p:last-child {
+  height: 200px;
+  width: 200px;
+  padding: -30px;
+  margin:auto;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: purple;
+}

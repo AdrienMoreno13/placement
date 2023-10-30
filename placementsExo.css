@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  height: 250px;
+  width: 400px;
+  background-color: rgb(209, 208, 208);
+  border: 2px solid black;
+}
+
+label {
+  margin-left: 30px;
+}
+
+.checkbox {
+  margin-left: 30px;
+}
+
+.button {
+  text-align: center;
+  margin: 20px;
+  padding: 5px;
+}
+
+.button:hover {
+  color: blue;
+}
+
+input[type="text"] {
+  margin-left: 20px;
+}
+
+input[type="password"] {
+  margin-left: 20px;
+}
+
+label[for="RememberMe"] {
+  margin-left: 10px;
+}
