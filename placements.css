@@ -1,6 +1,6 @@
 p {
   background-color: rgb(206, 199, 199);
-  border: 1px solid green;
+  border: 3px solid green;
 }
 
 p:first-child {

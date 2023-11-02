@@ -1,0 +1,16 @@
+p {
+  background-color: rgb(161, 161, 161);
+  border: 2px solid green;  
+}
+
+p:nth-child(1) {
+    height: 100px;
+}
+
+p:nth-child(2) {
+    width: 50%;
+}
+p:nth-child(3) {
+    height: 200px;
+    width: 200px;
+}
